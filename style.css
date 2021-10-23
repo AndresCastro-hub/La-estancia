@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color:black(22, 21, 21);
+    background-color:#151415;
 }
 
 /* Banner  */
@@ -35,7 +35,7 @@ body{
 
 .buscar input{
     margin-top: 15px;
-    background-color:   black;
+    background-color:#151415;
     border-radius: 40px;
     width: 80px;
     color: white;
