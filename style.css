@@ -159,3 +159,55 @@ nav ul li a:hover{
 
 /*Fin de Cards*/
 
+/* Footer */
+
+.footer{
+   background-color:  #635b57;
+   padding: 40px 0;
+   
+}
+
+.footer img{
+    width: 170px;
+}
+
+.contenedor{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col{
+    width: 25%;
+    padding: 0 35px;
+    
+}
+
+.footer ul li a{
+    font-size: 13px;
+    color: #eae9e8;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.footer-col .iconos a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    background-color: white !important;
+    border: 1px solid white;
+}
+
+/*Botones */
