@@ -115,3 +115,47 @@ nav ul li a:hover{
     color:  #d8b14b;
     font-size: 23px;
 }
+
+/*Cards */
+
+
+.cards{
+    display: flex;
+    gap:20px;
+}
+
+.card{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 250px;
+}
+
+.card img{
+    border-radius: 20px;
+    height: 150px;
+}
+
+.card-title{
+    color: #d8b14b !important;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-text{
+    color: black;
+    float: left;
+    padding-left: 20px;
+    padding-right: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.desc{
+   color: black !important;
+   padding-top: 7px;
+   font-weight: bold;
+}
+
+/*Fin de Cards*/
+
