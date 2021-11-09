@@ -162,7 +162,7 @@ nav ul li a:hover{
 /* Footer */
 
 .footer{
-   background-color:  #635b57;
+   background-color:  #151415;
    padding: 40px 0;
    
 }
@@ -211,3 +211,42 @@ nav ul li a:hover{
 }
 
 /*Botones */
+
+
+
+
+
+/*Sobre Nosotros*/
+
+.nosotrosBackground{
+    background-image: url(./assets/img/productos/sobreNosotros.jpg);
+    
+}
+
+.nosotros{
+    margin: 40px 500px;
+    background-color: white;
+    height: 30vh;
+    width: 500px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.nosotrosTexto h3{
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 35px;
+    
+}
+
+.nosotrosTexto p{
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+
