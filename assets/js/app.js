@@ -35,3 +35,19 @@ function mostrarHTML(productos) {
     })
 
 }
+
+//BOX DE CSS
+
+
+const cart = document.querySelector('.cart')
+const box = document.querySelector('.box')
+
+eventListeners()
+function eventListeners(){
+    cart.addEventListener('click', mostrarCart)
+}
+
+
+function mostrarCart(){
+    box.style.display = 'block'
+}
